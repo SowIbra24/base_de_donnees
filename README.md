@@ -65,5 +65,5 @@ Trouvez le repos depuis le navigateur, cliquez dessus et vous aurez la page.
 
 ## PS
 Ce projet a été réalisé en binome avec [Elhadj Amadou Barry](https://github.com/barryelhadj23).  
-Sur son repo, se trouve la version commune.  
+Sur son repo, se trouve la [version commune](https://github.com/barryelhadj23/projectBDW).  
 J'ai retravaillé le projet après.
