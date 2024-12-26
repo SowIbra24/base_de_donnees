@@ -40,7 +40,7 @@ Pour ce projet, vous devrez créez 2 bases de données.
 Sur phpMyAdmin en haut à gauche, vous verrez `Nouvelle base de données`.  
 Si vous cliquez dessus, vous aurez à renseigner le nom de votre base et la créer.  
 #### La base dataset
-Cette base doit avoir le nom `dataset` pour permettre aux requêtes sql d'aboutir.
+Cette base doit avoir le nom `dataset` pour permettre aux requêtes sql du projet d'aboutir.
 #### Votre base 
 Créez une 2e base , vous pourrez lui donner le nom que vous voulez  
 
