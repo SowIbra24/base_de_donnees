@@ -47,7 +47,7 @@ Créez une 2e base , vous pourrez lui donner le nom que vous voulez
 ## Peuplement des bases
 Dans le dossier Scripts SQL, vous trouverez 3 fichiers.  
 Le fichier `dataset` sert à créer les tables et remplir la base du même nom.
-Le fichier `scrip_creation_base` servira à créer votre les tables base de données (celle avce le nom que vous voulez).  
+Le fichier `scrip_creation_base` servira à créer les tables de votre base de données (celle avce le nom que vous voulez).  
 Le deriner fichier servira à remplir les tables de votre base.  
 ## Importer le fichier sql dans phpMyAdmin  
 Vous devez lz faire pour les 3 fichiers séparement.  
