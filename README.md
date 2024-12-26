@@ -33,7 +33,7 @@ Un petit conseil : assurez-vous que post_max_size soit au moins aussi grand que 
 ## Lancement de phpMyAdmin  
 Ouvrez MAMP, activez les serveurs PHP et SQL (normalement dès que vous lancez mamp, ils s'activent par défaut)  
 Une fois les serveurs actifs, ouvrez votre navigateur web et tappez dans la barre de recherche : localhost/phpMyAdmin.  
-Si tous va bien, vous verrez l'interface de phpMyAdmin.  
+Si tout va bien, vous verrez l'interface de phpMyAdmin.  
 
 ## Création des bases 
 Pour ce projet, vous devrez créez 2 bases de données.  
